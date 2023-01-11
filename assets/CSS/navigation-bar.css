@@ -1,0 +1,45 @@
+
+body {
+    font-family: PT Sans;
+
+}
+
+.navigation {
+    display: flex;
+    align-content: center;
+    background-color: lightgoldenrodyellow;
+    padding: 0.5% 1%;
+    border-radius: 90px;
+    color: brown;
+}
+
+
+.button-side {
+    background-color: yellow;
+    color: brown;
+    width: 20%;
+    border: none;
+    border-radius: 60px;
+    font-size: 1.1em;
+    padding: 2%;
+    margin: 2%;
+    font-size: 1.9em;
+}
+
+.button-central {
+    background-color: yellow;
+    color: brown;
+    width: 20%;
+    border: none;
+    border-radius: 60px;
+    font-size: 1.1em;
+    padding: 1%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.9em;
+}
+
+.button-central img {
+    width: 40%;
+}
